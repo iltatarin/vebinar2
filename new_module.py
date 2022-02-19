@@ -1,5 +1,2 @@
-class A:
+class B:
     pass
-
-
-1
